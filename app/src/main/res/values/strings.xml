@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sean Gorham</string>
+    <string name="textview">TextView</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio">Hi I\'m Sean I\'m a Software Engineer with a beautiful and grumpy German Shepherd. I am looking
+                        to develop mobile applications and develop a strong skill set in Kotlin and Android Development. \n\nI have a CS Degree
+                        from SIUE and have been professionally developing in Java, JSP\'s, and Javascript. \n\nI am learning Kotlin on my own
+                        as I find it interesting and I am well acquainted with Java. I will be developing more apps in my spare time.
+                        \n\nOne of which is a budgeting "envelope" app and an app for a food delivery/prep service.</string>
+    <string name="done">Done</string>
+</resources>
